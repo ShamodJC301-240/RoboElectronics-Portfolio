@@ -1,0 +1,70 @@
+robotics-learning-journey/
+│
+├── index.html                      # Landing page: overview, featured tutorials, quick links
+├── electronics.html                 # Electronics basics, components, diagrams
+├── circuits.html                    # Circuit design, breadboards, wiring examples
+├── microcontrollers.html            # Arduino, Raspberry Pi, other boards
+├── programming.html                 # Code examples, libraries, tutorials
+├── sensors.html                     # Sensors, actuators, interfacing
+├── assembly.html                    # Robot building guides, mechanical parts
+├── control.html                     # Robotics control systems and algorithms
+├── projects.html                    # Sample projects with step-by-step instructions
+├── resources.html                   # Datasheets, reference PDFs, online tools
+├── about.html                       # About the project, roadmap, references
+│
+├── /css
+│   ├── main.css                     # Core styling
+│   ├── layout.css                   # Grid, flex, responsive layout
+│   ├── components.css               # Cards, tabs, modals, buttons
+│   ├── colors.css                   # Tech-friendly color palette
+│   └── animations.css               # Hover effects, step highlights, transitions
+│
+├── /js
+│   ├── main.js                      # Navbar, menu toggles, global scripts
+│   ├── electronics.js               # Interactive diagrams, component highlighting
+│   ├── circuits.js                  # Circuit simulations or visual aids
+│   ├── microcontrollers.js          # Board examples, code snippets
+│   ├── programming.js               # Code examples, interactive snippets
+│   ├── sensors.js                   # Sensor demos and data visualization
+│   ├── assembly.js                  # Step-by-step assembly guides
+│   ├── control.js                   # Interactive control simulations
+│   ├── projects.js                  # Project walkthrough interactivity
+│   └── utils.js                     # Helper functions for all modules
+│
+├── /data
+│   ├── electronics.json             # Components, specs, symbols
+│   ├── circuits.json                # Circuit examples and diagrams
+│   ├── microcontrollers.json        # Board info, pinouts, sample code
+│   ├── sensors.json                 # Sensor types, usage, datasheets
+│   ├── assembly.json                # Mechanical parts, instructions
+│   ├── control.json                 # Control algorithms, theory notes
+│   ├── projects.json                # Sample projects, step lists, images
+│   └── resources.json               # PDFs, datasheets, external links
+│
+├── /assets
+│   ├── images/
+│   │   ├── electronics/
+│   │   ├── circuits/
+│   │   ├── robots/
+│   │   └── diagrams/
+│   │
+│   ├── icons/                       # SVG or PNG icons for components, boards, tools
+│   ├── pdfs/                         # Guides, datasheets, tutorials
+│   └── videos/                        # Video tutorials or demonstrations
+│
+├── /components
+│   ├── navbar.html
+│   ├── footer.html
+│   ├── tutorial-card.html           # Card for tutorials or lessons
+│   ├── project-card.html            # Card for sample projects
+│   ├── resource-card.html           # PDF, datasheet, or external resource
+│   └── diagram-card.html            # Circuit or electronics diagram previews
+│
+└── /docs
+    ├── design.md                    # UI style, color palette, component guidelines
+    ├── content-plan.md              # Topics, lessons, and project coverage
+    ├── roadmap.md                   # Planned features or future expansions
+    ├── tutorials.md                 # Step-by-step content workflow
+    └── sources.md                   # References for electronics, robotics, and coding
+
+└── README.md                  # Optional project overview
